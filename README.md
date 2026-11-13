@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shadcn Admin Dashboard
 
 Admin Dashboard UI crafted with Shadcn and Vite. Built with responsiveness and accessibility in mind.
@@ -117,3 +118,6 @@ Crafted with 🤍 by [@satnaing](https://github.com/satnaing)
 ## License
 
 Licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+=======
+# A-Ticket
+>>>>>>> 92b4be587762083743e726db1faaf65932dee71e
